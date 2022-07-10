@@ -14,11 +14,7 @@ DCCM aims to connect NFTs and voluntarily carbon market to encourage carbon emis
 
 # 3. What’s next
 
-- Cooperate with different brands, project issuers and third-party testing and certification agencies
-- Develop more different projects
-- Look for financing opportunities 
-- Develop more directions, such as food safety
-- We hope to make the product become the supervisor and benchmark of the industry, to promote the trend of products through the power of users, to promote more brands to the path of sustainable development, and to let more people participate in environmental protection and sustainable development
+![image](https://user-images.githubusercontent.com/54230177/178143346-01cc0406-1941-4300-b099-620fad132843.PNG)
 
 # 4. Links 
 
